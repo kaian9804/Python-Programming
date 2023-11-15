@@ -1,0 +1,21 @@
+Make,Model,Year,Number of Doors,Vehicle Size,Highway MPG,City MPG,Likes,Price
+Acura,Integra,2001,2.0,Compact,28,21,204,21850
+Toyota,Tundra,2016,4.0,Large,17,13,2031,36030
+Suzuki,SX4,2011,4.0,Compact,30,22,481,18249
+Lincoln,LS,2004,4.0,Midsize,24,17,61,36770
+Hyundai,Sonata Hybrid,2015,4.0,Midsize,40,36,1439,29500
+Aston Martin,DBS,2011,2.0,Midsize,17,11,259,268660
+Toyota,4Runner,2014,4.0,Midsize,23,17,2031,32820
+Chrysler,300,2015,4.0,Large,31,19,1013,42395
+Scion,xD,2013,4.0,Compact,33,27,105,16545
+Chevrolet,Captiva Sport,2014,4.0,Midsize,28,20,1385,25975
+Ford,Taurus X,2009,4.0,Large,24,17,5657,28270
+Volkswagen,GTI,2013,4.0,Compact,31,21,873,30995
+Dodge,Dakota,2008,4.0,Compact,20,15,1851,22030
+Nissan,Quest,2014,4.0,Compact,25,19,2009,26220
+Chevrolet,Silverado 1500,2015,4.0,Large,24,18,1385,30130
+Volkswagen,CC,2016,4.0,Midsize,25,17,873,44355
+Ford,Edge,2015,4.0,Midsize,28,20,5657,30095
+GMC,Canyon,2012,2.0,Compact,23,17,549,25305
+GMC,Envoy XL,2004,4.0,Large,18,13,549,35870
+Toyota,Sequoia,2015,4.0,Large,17,13,2031,56580
